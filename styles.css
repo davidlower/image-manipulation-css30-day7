@@ -5,9 +5,11 @@
 
 body {
    margin: 0;
-
+   background-image: linear-gradient(to bottom right, #e64c37, #e9e855);
+   /* background-image: linear-gradient(to bottom right, #CD7F31, #FCE38E); */
    font-family: 'Poppins', sans-serif;
    font-weight: 200;
+   color: white;
 }
 
 span {
